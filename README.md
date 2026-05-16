@@ -43,6 +43,7 @@ Still a lot to learn, always building.
 - C++ — used it for university projects (algorithms, data structures, the fun stuff)
 - C - used it for working with minix in order to implement hardware functions(keyboard, mouse, screen, etc.)
 - Java — a little, mostly academic
+- Python - Was my starting language
 - Rust — learning, not yet dangerous
 
 **Environment**
