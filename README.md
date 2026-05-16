@@ -67,8 +67,8 @@ Still a lot to learn, always building.
 
 I use two accounts:
 
-- **[Francisco-Correia](https://github.com/Francisco-Correia)** — personal projects, this profile
-- **[FranciscoPorto-dev](https://github.com/FranciscoPorto-dev)** — dev work, portfolio
+- **[FranciscoPorto-dev](https://github.com/FranciscoPorto-dev)** — dev work, portfolio, personal Projects, this profile
+- **[Francisco-Correia](https://github.com/Francisco-Correia-Porto)** — uni projects, uni profile
 
 ---
 
