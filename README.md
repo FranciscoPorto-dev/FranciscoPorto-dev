@@ -16,7 +16,7 @@
   ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-**CS student @ FEUP** &nbsp;·&nbsp; **Software Engineer in progress** &nbsp;·&nbsp; **Linux enthusiast**
+**CS student @ FEUP** &nbsp;·&nbsp; **Software Engineer in progress** &nbsp;·&nbsp; **Linux/Apple enthusiast**
 
 </div>
 
